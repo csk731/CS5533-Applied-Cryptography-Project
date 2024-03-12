@@ -1,0 +1,6 @@
+[submodule "CS5533-TeleHealthSystem-Client"]
+	path = CS5533-TeleHealthSystem-Client
+	url = https://github.com/csk731/CS5533-TeleHealthSystem-Client
+[submodule "CS5533-TeleHealthSystem-Server"]
+	path = CS5533-TeleHealthSystem-Server
+	url = https://github.com/csk731/CS5533-TeleHealthSystem-Server
